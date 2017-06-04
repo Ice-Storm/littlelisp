@@ -1,0 +1,12 @@
+{
+  "name": "littlelisp",
+  "description": "An interpreter for a little lisp.",
+  "author": "hehao <wcwz020140@163.com>",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "node_modules/jasmine-node/bin/jasmine-node *.spec.js"
+  },
+  "devDependencies": {
+    "jasmine-node": "1.7.1"
+  }
+}
