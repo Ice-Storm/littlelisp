@@ -4,8 +4,6 @@ A mini Lisp interpreter in JavaScript.  Supports lists (obvs), function invocati
 
 * By He hao
 
-Thank you to Martin Tornwall for the implementations of let and if.
-
 ## Repl
 
     $ node repl.js
